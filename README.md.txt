@@ -102,7 +102,7 @@ Created an interactive dashboard using Excel PivotCharts and slicers to present 
 
 The dashboard provides an overview of bike purchasing behaviour through visual representations of customer income, age groups, commute distance, and purchasing decisions.
 
-![India Bike Buyers Dashboard](images/bike-dashboard.png)
+![India Bike Buyers Dashboard](Dashboard/Bike Dashboard.xlsx.png)
 
 ---
 
